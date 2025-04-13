@@ -1,0 +1,28 @@
+.vadym{
+   text-align: center;
+   background-color: aqua;
+   
+}
+.gatos{
+   display: flex;
+  flex-wrap: wrap
+}
+.h4{
+   width: 200px;
+   height: 200px;   
+} 
+main{
+  text-align: center;
+}
+main{
+ background: rgb(55, 146, 189);
+}
+a{
+ text-decoration: none;
+ color: black;
+ opacity: 0.1;
+}
+h5:hover{
+opacity: 1;
+color: aqua;
+}
