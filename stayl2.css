@@ -1,0 +1,16 @@
+.vadym{
+   text-align: center;
+   background-color: aqua;
+   
+}
+.gatos{
+   display: flex;
+  flex-wrap: wrap
+  }
+.h4{
+   width: 200px;
+   height: 200px;   
+}
+main{
+  text-align: center;
+}
